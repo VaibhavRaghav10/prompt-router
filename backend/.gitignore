@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+.dist/
+.build/
+.cache/
+.ipynb_checkpoints/
+*.joblib
+*.pkl
+.DS_Store
